@@ -10,3 +10,4 @@ function third() {
     console.log("세 번째");
 }
 first();
+.
