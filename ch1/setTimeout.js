@@ -4,4 +4,3 @@ function run() {
 console.log("시작");
 setTimeout(run, 3000);
 console.log("끝");
-.
